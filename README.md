@@ -6,4 +6,4 @@ Tutorial: https://edgarandressantamaria.github.io/geeky_projects_with_R/notebook
 
 Note: you can download the notebook using the web page above right settings, and launch on your R studio.
 
-Edgar Andrés and Mohammed Yassin
+Edgar Andrés and Mohamed Yassin
